@@ -25,7 +25,7 @@ var t7E =  { "region":"West", "seed":7, "name":"VCU", "oddsByRound":[36,5,2,1,1,
 var t8E =  { "region":"West", "seed":8, "name":"Oregon", "oddsByRound":[41,5,2,1,1,1] };
 var t9E =  { "region":"West", "seed":9, "name":"Oklahoma St.", "oddsByRound":[59,9,4,1,1,1] }; 
 var t10E = { "region":"West", "seed":10, "name":"Ohio St.", "oddsByRound":[64,13,7,3,1,1] };
-var t11E = { "region":"West", "seed":11, "name":"BYU/Miss", "oddsByRound":[44,18,3,1,1,1] }; 
+var t11E = { "region":"West", "seed":11, "name":"Ole Miss", "oddsByRound":[44,18,3,1,1,1] }; 
 var t12E = { "region":"West", "seed":12, "name":"Wofford", "oddsByRound":[24,4,1,1,1,1] }; 
 var t13E = { "region":"West", "seed":13, "name":"Harvard", "oddsByRound":[13,5,1,1,1,1] };
 var t14E = { "region":"West", "seed":14, "name":"Georgia St.", "oddsByRound":[24,9,1,1,1,1] }; 
@@ -47,7 +47,7 @@ var t12S = { "region":"Midwest", "seed":12, "name":"Buffalo", "oddsByRound":[33,
 var t13S = { "region":"Midwest", "seed":13, "name":"Valparaiso", "oddsByRound":[28,9,1,1,1,1] };
 var t14S = { "region":"Midwest", "seed":14, "name":"Northeastern", "oddsByRound":[10,2,1,1,1,1] }; 
 var t15S = { "region":"Midwest", "seed":15, "name":"N. Mex. St.", "oddsByRound":[9,2,1,1,1,1] };
-var t16S = { "region":"Midwest", "seed":16, "name":"Manh/Ham", "oddsByRound":[1,1,1,1,1,1] };
+var t16S = { "region":"Midwest", "seed":16, "name":"Hampton", "oddsByRound":[1,1,1,1,1,1] };
 
 var t1MW = { "region":"South", "seed":1, "name":"Duke", "oddsByRound":[97,84,55,32,16,6] };
 var t2MW = { "region":"South", "seed":2, "name":"Gonzaga", "oddsByRound":[97,80,47,24,10,3] };
